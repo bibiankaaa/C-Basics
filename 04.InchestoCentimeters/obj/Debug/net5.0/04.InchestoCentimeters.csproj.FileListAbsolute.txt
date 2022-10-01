@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\01.HelloSoftUni\04.InchestoCentimeters\bin\Debug\net5.0\04.InchestoCentimeters.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\01.HelloSoftUni\04.InchestoCentimeters\bin\Debug\net5.0\04.InchestoCentimeters.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\01.HelloSoftUni\04.InchestoCentimeters\bin\Debug\net5.0\04.InchestoCentimeters.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\01.HelloSoftUni\04.InchestoCentimeters\bin\Debug\net5.0\04.InchestoCentimeters.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\01.HelloSoftUni\04.InchestoCentimeters\bin\Debug\net5.0\04.InchestoCentimeters.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\01.HelloSoftUni\04.InchestoCentimeters\bin\Debug\net5.0\04.InchestoCentimeters.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\01.HelloSoftUni\04.InchestoCentimeters\obj\Debug\net5.0\04.InchestoCentimeters.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\01.HelloSoftUni\04.InchestoCentimeters\obj\Debug\net5.0\04.InchestoCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\01.HelloSoftUni\04.InchestoCentimeters\obj\Debug\net5.0\04.InchestoCentimeters.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\01.HelloSoftUni\04.InchestoCentimeters\obj\Debug\net5.0\04.InchestoCentimeters.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\01.HelloSoftUni\04.InchestoCentimeters\obj\Debug\net5.0\04.InchestoCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\01.HelloSoftUni\04.InchestoCentimeters\obj\Debug\net5.0\04.InchestoCentimeters.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\01.HelloSoftUni\04.InchestoCentimeters\obj\Debug\net5.0\refint\04.InchestoCentimeters.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\01.HelloSoftUni\04.InchestoCentimeters\obj\Debug\net5.0\04.InchestoCentimeters.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\01.HelloSoftUni\04.InchestoCentimeters\obj\Debug\net5.0\04.InchestoCentimeters.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\01.HelloSoftUni\04.InchestoCentimeters\obj\Debug\net5.0\ref\04.InchestoCentimeters.dll

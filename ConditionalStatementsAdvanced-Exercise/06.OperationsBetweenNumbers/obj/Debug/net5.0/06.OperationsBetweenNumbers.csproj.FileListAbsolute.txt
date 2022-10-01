@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\net5.0\06.OperationsBetweenNumbers.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\net5.0\06.OperationsBetweenNumbers.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\net5.0\06.OperationsBetweenNumbers.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\net5.0\06.OperationsBetweenNumbers.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\net5.0\06.OperationsBetweenNumbers.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\net5.0\06.OperationsBetweenNumbers.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net5.0\06.OperationsBetweenNumbers.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net5.0\06.OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net5.0\06.OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net5.0\06.OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net5.0\06.OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net5.0\06.OperationsBetweenNumbers.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net5.0\refint\06.OperationsBetweenNumbers.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net5.0\06.OperationsBetweenNumbers.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net5.0\06.OperationsBetweenNumbers.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net5.0\ref\06.OperationsBetweenNumbers.dll

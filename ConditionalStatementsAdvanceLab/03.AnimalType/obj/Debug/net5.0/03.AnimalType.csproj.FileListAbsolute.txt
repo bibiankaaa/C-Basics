@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\03.AnimalType\bin\Debug\net5.0\03.AnimalType.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\03.AnimalType\bin\Debug\net5.0\03.AnimalType.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\03.AnimalType\bin\Debug\net5.0\03.AnimalType.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\03.AnimalType\bin\Debug\net5.0\03.AnimalType.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\03.AnimalType\bin\Debug\net5.0\03.AnimalType.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\03.AnimalType\bin\Debug\net5.0\03.AnimalType.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\03.AnimalType\obj\Debug\net5.0\03.AnimalType.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\03.AnimalType\obj\Debug\net5.0\03.AnimalType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\03.AnimalType\obj\Debug\net5.0\03.AnimalType.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\03.AnimalType\obj\Debug\net5.0\03.AnimalType.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\03.AnimalType\obj\Debug\net5.0\03.AnimalType.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\03.AnimalType\obj\Debug\net5.0\03.AnimalType.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\03.AnimalType\obj\Debug\net5.0\refint\03.AnimalType.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\03.AnimalType\obj\Debug\net5.0\03.AnimalType.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\03.AnimalType\obj\Debug\net5.0\03.AnimalType.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\03.AnimalType\obj\Debug\net5.0\ref\03.AnimalType.dll

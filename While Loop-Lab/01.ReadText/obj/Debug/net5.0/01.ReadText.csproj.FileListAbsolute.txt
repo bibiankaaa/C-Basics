@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\While Loop-Lab\01.ReadText\bin\Debug\net5.0\01.ReadText.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\While Loop-Lab\01.ReadText\bin\Debug\net5.0\01.ReadText.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\While Loop-Lab\01.ReadText\bin\Debug\net5.0\01.ReadText.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\While Loop-Lab\01.ReadText\bin\Debug\net5.0\01.ReadText.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\While Loop-Lab\01.ReadText\bin\Debug\net5.0\01.ReadText.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\While Loop-Lab\01.ReadText\bin\Debug\net5.0\01.ReadText.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\While Loop-Lab\01.ReadText\obj\Debug\net5.0\01.ReadText.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\While Loop-Lab\01.ReadText\obj\Debug\net5.0\01.ReadText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\While Loop-Lab\01.ReadText\obj\Debug\net5.0\01.ReadText.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\While Loop-Lab\01.ReadText\obj\Debug\net5.0\01.ReadText.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\While Loop-Lab\01.ReadText\obj\Debug\net5.0\01.ReadText.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\While Loop-Lab\01.ReadText\obj\Debug\net5.0\01.ReadText.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\While Loop-Lab\01.ReadText\obj\Debug\net5.0\refint\01.ReadText.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\While Loop-Lab\01.ReadText\obj\Debug\net5.0\01.ReadText.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\While Loop-Lab\01.ReadText\obj\Debug\net5.0\01.ReadText.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\While Loop-Lab\01.ReadText\obj\Debug\net5.0\ref\01.ReadText.dll

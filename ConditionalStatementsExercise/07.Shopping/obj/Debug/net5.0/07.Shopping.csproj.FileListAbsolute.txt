@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\07.Shopping\bin\Debug\net5.0\07.Shopping.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\07.Shopping\bin\Debug\net5.0\07.Shopping.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\07.Shopping\bin\Debug\net5.0\07.Shopping.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\07.Shopping\bin\Debug\net5.0\07.Shopping.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\07.Shopping\bin\Debug\net5.0\07.Shopping.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\07.Shopping\bin\Debug\net5.0\07.Shopping.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\07.Shopping\obj\Debug\net5.0\07.Shopping.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\07.Shopping\obj\Debug\net5.0\07.Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\07.Shopping\obj\Debug\net5.0\07.Shopping.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\07.Shopping\obj\Debug\net5.0\07.Shopping.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\07.Shopping\obj\Debug\net5.0\07.Shopping.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\07.Shopping\obj\Debug\net5.0\07.Shopping.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\07.Shopping\obj\Debug\net5.0\refint\07.Shopping.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\07.Shopping\obj\Debug\net5.0\07.Shopping.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\07.Shopping\obj\Debug\net5.0\07.Shopping.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\07.Shopping\obj\Debug\net5.0\ref\07.Shopping.dll

@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\04.PersonalTitles\bin\Debug\net5.0\04.PersonalTitles.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\04.PersonalTitles\bin\Debug\net5.0\04.PersonalTitles.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\04.PersonalTitles\bin\Debug\net5.0\04.PersonalTitles.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\04.PersonalTitles\bin\Debug\net5.0\04.PersonalTitles.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\04.PersonalTitles\bin\Debug\net5.0\04.PersonalTitles.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\04.PersonalTitles\bin\Debug\net5.0\04.PersonalTitles.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\04.PersonalTitles\obj\Debug\net5.0\04.PersonalTitles.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\04.PersonalTitles\obj\Debug\net5.0\04.PersonalTitles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\04.PersonalTitles\obj\Debug\net5.0\04.PersonalTitles.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\04.PersonalTitles\obj\Debug\net5.0\04.PersonalTitles.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\04.PersonalTitles\obj\Debug\net5.0\04.PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\04.PersonalTitles\obj\Debug\net5.0\04.PersonalTitles.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\04.PersonalTitles\obj\Debug\net5.0\refint\04.PersonalTitles.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\04.PersonalTitles\obj\Debug\net5.0\04.PersonalTitles.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\04.PersonalTitles\obj\Debug\net5.0\04.PersonalTitles.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\04.PersonalTitles\obj\Debug\net5.0\ref\04.PersonalTitles.dll

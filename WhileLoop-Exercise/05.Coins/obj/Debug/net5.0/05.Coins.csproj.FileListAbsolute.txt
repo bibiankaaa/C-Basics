@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\05.Coins\bin\Debug\net5.0\05.Coins.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\05.Coins\bin\Debug\net5.0\05.Coins.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\05.Coins\bin\Debug\net5.0\05.Coins.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\05.Coins\bin\Debug\net5.0\05.Coins.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\05.Coins\bin\Debug\net5.0\05.Coins.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\05.Coins\bin\Debug\net5.0\05.Coins.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\05.Coins\obj\Debug\net5.0\05.Coins.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\05.Coins\obj\Debug\net5.0\05.Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\05.Coins\obj\Debug\net5.0\05.Coins.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\05.Coins\obj\Debug\net5.0\05.Coins.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\05.Coins\obj\Debug\net5.0\05.Coins.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\05.Coins\obj\Debug\net5.0\05.Coins.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\05.Coins\obj\Debug\net5.0\refint\05.Coins.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\05.Coins\obj\Debug\net5.0\05.Coins.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\05.Coins\obj\Debug\net5.0\05.Coins.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\05.Coins\obj\Debug\net5.0\ref\05.Coins.dll

@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\net5.0\01.Numbersfrom1to100.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\net5.0\01.Numbersfrom1to100.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\net5.0\01.Numbersfrom1to100.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\net5.0\01.Numbersfrom1to100.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\net5.0\01.Numbersfrom1to100.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\net5.0\01.Numbersfrom1to100.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net5.0\01.Numbersfrom1to100.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net5.0\01.Numbersfrom1to100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net5.0\01.Numbersfrom1to100.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net5.0\01.Numbersfrom1to100.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net5.0\01.Numbersfrom1to100.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net5.0\01.Numbersfrom1to100.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net5.0\refint\01.Numbersfrom1to100.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net5.0\01.Numbersfrom1to100.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net5.0\01.Numbersfrom1to100.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net5.0\ref\01.Numbersfrom1to100.dll

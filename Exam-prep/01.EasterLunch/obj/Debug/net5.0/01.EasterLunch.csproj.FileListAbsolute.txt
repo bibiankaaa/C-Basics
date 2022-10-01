@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.EasterLunch\bin\Debug\net5.0\01.EasterLunch.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.EasterLunch\bin\Debug\net5.0\01.EasterLunch.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.EasterLunch\bin\Debug\net5.0\01.EasterLunch.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.EasterLunch\bin\Debug\net5.0\01.EasterLunch.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.EasterLunch\bin\Debug\net5.0\01.EasterLunch.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.EasterLunch\bin\Debug\net5.0\01.EasterLunch.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.EasterLunch\obj\Debug\net5.0\01.EasterLunch.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.EasterLunch\obj\Debug\net5.0\01.EasterLunch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.EasterLunch\obj\Debug\net5.0\01.EasterLunch.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.EasterLunch\obj\Debug\net5.0\01.EasterLunch.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.EasterLunch\obj\Debug\net5.0\01.EasterLunch.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.EasterLunch\obj\Debug\net5.0\01.EasterLunch.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.EasterLunch\obj\Debug\net5.0\refint\01.EasterLunch.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.EasterLunch\obj\Debug\net5.0\01.EasterLunch.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.EasterLunch\obj\Debug\net5.0\01.EasterLunch.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.EasterLunch\obj\Debug\net5.0\ref\01.EasterLunch.dll

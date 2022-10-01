@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\05.CharacterSequence\bin\Debug\net5.0\05.CharacterSequence.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\05.CharacterSequence\bin\Debug\net5.0\05.CharacterSequence.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\05.CharacterSequence\bin\Debug\net5.0\05.CharacterSequence.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\05.CharacterSequence\bin\Debug\net5.0\05.CharacterSequence.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\05.CharacterSequence\bin\Debug\net5.0\05.CharacterSequence.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\05.CharacterSequence\bin\Debug\net5.0\05.CharacterSequence.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\05.CharacterSequence\obj\Debug\net5.0\05.CharacterSequence.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\05.CharacterSequence\obj\Debug\net5.0\05.CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\05.CharacterSequence\obj\Debug\net5.0\05.CharacterSequence.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\05.CharacterSequence\obj\Debug\net5.0\05.CharacterSequence.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\05.CharacterSequence\obj\Debug\net5.0\05.CharacterSequence.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\05.CharacterSequence\obj\Debug\net5.0\05.CharacterSequence.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\05.CharacterSequence\obj\Debug\net5.0\refint\05.CharacterSequence.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\05.CharacterSequence\obj\Debug\net5.0\05.CharacterSequence.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\05.CharacterSequence\obj\Debug\net5.0\05.CharacterSequence.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ForLoop-Lab\05.CharacterSequence\obj\Debug\net5.0\ref\05.CharacterSequence.dll

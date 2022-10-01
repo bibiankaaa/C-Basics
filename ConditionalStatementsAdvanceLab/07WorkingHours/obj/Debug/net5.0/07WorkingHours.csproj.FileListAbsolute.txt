@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\07WorkingHours\bin\Debug\net5.0\07WorkingHours.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\07WorkingHours\bin\Debug\net5.0\07WorkingHours.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\07WorkingHours\bin\Debug\net5.0\07WorkingHours.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\07WorkingHours\bin\Debug\net5.0\07WorkingHours.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\07WorkingHours\bin\Debug\net5.0\07WorkingHours.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\07WorkingHours\bin\Debug\net5.0\07WorkingHours.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\07WorkingHours\obj\Debug\net5.0\07WorkingHours.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\07WorkingHours\obj\Debug\net5.0\07WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\07WorkingHours\obj\Debug\net5.0\07WorkingHours.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\07WorkingHours\obj\Debug\net5.0\07WorkingHours.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\07WorkingHours\obj\Debug\net5.0\07WorkingHours.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\07WorkingHours\obj\Debug\net5.0\07WorkingHours.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\07WorkingHours\obj\Debug\net5.0\refint\07WorkingHours.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\07WorkingHours\obj\Debug\net5.0\07WorkingHours.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\07WorkingHours\obj\Debug\net5.0\07WorkingHours.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\07WorkingHours\obj\Debug\net5.0\ref\07WorkingHours.dll

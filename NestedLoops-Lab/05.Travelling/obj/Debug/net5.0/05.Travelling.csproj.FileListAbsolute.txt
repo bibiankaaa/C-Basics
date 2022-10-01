@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\05.Travelling\bin\Debug\net5.0\05.Travelling.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\05.Travelling\bin\Debug\net5.0\05.Travelling.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\05.Travelling\bin\Debug\net5.0\05.Travelling.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\05.Travelling\bin\Debug\net5.0\05.Travelling.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\05.Travelling\bin\Debug\net5.0\05.Travelling.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\05.Travelling\bin\Debug\net5.0\05.Travelling.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\05.Travelling\obj\Debug\net5.0\05.Travelling.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\05.Travelling\obj\Debug\net5.0\05.Travelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\05.Travelling\obj\Debug\net5.0\05.Travelling.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\05.Travelling\obj\Debug\net5.0\05.Travelling.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\05.Travelling\obj\Debug\net5.0\05.Travelling.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\05.Travelling\obj\Debug\net5.0\05.Travelling.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\05.Travelling\obj\Debug\net5.0\refint\05.Travelling.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\05.Travelling\obj\Debug\net5.0\05.Travelling.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\05.Travelling\obj\Debug\net5.0\05.Travelling.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\05.Travelling\obj\Debug\net5.0\ref\05.Travelling.dll

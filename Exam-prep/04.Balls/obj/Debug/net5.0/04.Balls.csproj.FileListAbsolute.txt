@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.Balls\bin\Debug\net5.0\04.Balls.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.Balls\bin\Debug\net5.0\04.Balls.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.Balls\bin\Debug\net5.0\04.Balls.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.Balls\bin\Debug\net5.0\04.Balls.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.Balls\bin\Debug\net5.0\04.Balls.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.Balls\bin\Debug\net5.0\04.Balls.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.Balls\obj\Debug\net5.0\04.Balls.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.Balls\obj\Debug\net5.0\04.Balls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.Balls\obj\Debug\net5.0\04.Balls.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.Balls\obj\Debug\net5.0\04.Balls.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.Balls\obj\Debug\net5.0\04.Balls.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.Balls\obj\Debug\net5.0\04.Balls.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.Balls\obj\Debug\net5.0\refint\04.Balls.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.Balls\obj\Debug\net5.0\04.Balls.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.Balls\obj\Debug\net5.0\04.Balls.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.Balls\obj\Debug\net5.0\ref\04.Balls.dll

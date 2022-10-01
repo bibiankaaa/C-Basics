@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\05.Number100.200\bin\Debug\net5.0\05.Number100.200.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\05.Number100.200\bin\Debug\net5.0\05.Number100.200.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\05.Number100.200\bin\Debug\net5.0\05.Number100.200.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\05.Number100.200\bin\Debug\net5.0\05.Number100.200.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\05.Number100.200\bin\Debug\net5.0\05.Number100.200.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\05.Number100.200\bin\Debug\net5.0\05.Number100.200.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\05.Number100.200\obj\Debug\net5.0\05.Number100.200.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\05.Number100.200\obj\Debug\net5.0\05.Number100.200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\05.Number100.200\obj\Debug\net5.0\05.Number100.200.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\05.Number100.200\obj\Debug\net5.0\05.Number100.200.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\05.Number100.200\obj\Debug\net5.0\05.Number100.200.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\05.Number100.200\obj\Debug\net5.0\05.Number100.200.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\05.Number100.200\obj\Debug\net5.0\refint\05.Number100.200.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\05.Number100.200\obj\Debug\net5.0\05.Number100.200.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\05.Number100.200\obj\Debug\net5.0\05.Number100.200.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\05.Number100.200\obj\Debug\net5.0\ref\05.Number100.200.dll

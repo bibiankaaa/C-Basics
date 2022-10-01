@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\05.Godzillavs.Kong\bin\Debug\net5.0\05.Godzillavs.Kong.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\05.Godzillavs.Kong\bin\Debug\net5.0\05.Godzillavs.Kong.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\05.Godzillavs.Kong\bin\Debug\net5.0\05.Godzillavs.Kong.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\05.Godzillavs.Kong\bin\Debug\net5.0\05.Godzillavs.Kong.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\05.Godzillavs.Kong\bin\Debug\net5.0\05.Godzillavs.Kong.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\05.Godzillavs.Kong\bin\Debug\net5.0\05.Godzillavs.Kong.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\05.Godzillavs.Kong\obj\Debug\net5.0\05.Godzillavs.Kong.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\05.Godzillavs.Kong\obj\Debug\net5.0\05.Godzillavs.Kong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\05.Godzillavs.Kong\obj\Debug\net5.0\05.Godzillavs.Kong.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\05.Godzillavs.Kong\obj\Debug\net5.0\05.Godzillavs.Kong.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\05.Godzillavs.Kong\obj\Debug\net5.0\05.Godzillavs.Kong.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\05.Godzillavs.Kong\obj\Debug\net5.0\05.Godzillavs.Kong.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\05.Godzillavs.Kong\obj\Debug\net5.0\refint\05.Godzillavs.Kong.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\05.Godzillavs.Kong\obj\Debug\net5.0\05.Godzillavs.Kong.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\05.Godzillavs.Kong\obj\Debug\net5.0\05.Godzillavs.Kong.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\05.Godzillavs.Kong\obj\Debug\net5.0\ref\05.Godzillavs.Kong.dll

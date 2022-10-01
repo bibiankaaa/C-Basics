@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\06.Oscars\bin\Debug\net5.0\06.Oscars.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\06.Oscars\bin\Debug\net5.0\06.Oscars.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\06.Oscars\bin\Debug\net5.0\06.Oscars.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\06.Oscars\bin\Debug\net5.0\06.Oscars.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\06.Oscars\bin\Debug\net5.0\06.Oscars.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\06.Oscars\bin\Debug\net5.0\06.Oscars.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\06.Oscars\obj\Debug\net5.0\06.Oscars.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\06.Oscars\obj\Debug\net5.0\06.Oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\06.Oscars\obj\Debug\net5.0\06.Oscars.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\06.Oscars\obj\Debug\net5.0\06.Oscars.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\06.Oscars\obj\Debug\net5.0\06.Oscars.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\06.Oscars\obj\Debug\net5.0\06.Oscars.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\06.Oscars\obj\Debug\net5.0\refint\06.Oscars.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\06.Oscars\obj\Debug\net5.0\06.Oscars.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\06.Oscars\obj\Debug\net5.0\06.Oscars.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\06.Oscars\obj\Debug\net5.0\ref\06.Oscars.dll

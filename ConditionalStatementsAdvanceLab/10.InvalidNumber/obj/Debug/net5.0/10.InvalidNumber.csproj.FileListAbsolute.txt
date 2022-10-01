@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\10.InvalidNumber\bin\Debug\net5.0\10.InvalidNumber.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\10.InvalidNumber\bin\Debug\net5.0\10.InvalidNumber.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\10.InvalidNumber\bin\Debug\net5.0\10.InvalidNumber.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\10.InvalidNumber\bin\Debug\net5.0\10.InvalidNumber.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\10.InvalidNumber\bin\Debug\net5.0\10.InvalidNumber.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\10.InvalidNumber\bin\Debug\net5.0\10.InvalidNumber.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\10.InvalidNumber\obj\Debug\net5.0\10.InvalidNumber.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\10.InvalidNumber\obj\Debug\net5.0\10.InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\10.InvalidNumber\obj\Debug\net5.0\10.InvalidNumber.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\10.InvalidNumber\obj\Debug\net5.0\10.InvalidNumber.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\10.InvalidNumber\obj\Debug\net5.0\10.InvalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\10.InvalidNumber\obj\Debug\net5.0\10.InvalidNumber.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\10.InvalidNumber\obj\Debug\net5.0\refint\10.InvalidNumber.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\10.InvalidNumber\obj\Debug\net5.0\10.InvalidNumber.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\10.InvalidNumber\obj\Debug\net5.0\10.InvalidNumber.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\10.InvalidNumber\obj\Debug\net5.0\ref\10.InvalidNumber.dll

@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.TouristShop\bin\Debug\net5.0\04.TouristShop.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.TouristShop\bin\Debug\net5.0\04.TouristShop.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.TouristShop\bin\Debug\net5.0\04.TouristShop.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.TouristShop\bin\Debug\net5.0\04.TouristShop.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.TouristShop\bin\Debug\net5.0\04.TouristShop.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.TouristShop\bin\Debug\net5.0\04.TouristShop.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.TouristShop\obj\Debug\net5.0\04.TouristShop.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.TouristShop\obj\Debug\net5.0\04.TouristShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.TouristShop\obj\Debug\net5.0\04.TouristShop.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.TouristShop\obj\Debug\net5.0\04.TouristShop.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.TouristShop\obj\Debug\net5.0\04.TouristShop.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.TouristShop\obj\Debug\net5.0\04.TouristShop.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.TouristShop\obj\Debug\net5.0\refint\04.TouristShop.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.TouristShop\obj\Debug\net5.0\04.TouristShop.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.TouristShop\obj\Debug\net5.0\04.TouristShop.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\04.TouristShop\obj\Debug\net5.0\ref\04.TouristShop.dll

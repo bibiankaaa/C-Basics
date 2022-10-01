@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\01.Excellent Result\bin\Debug\net5.0\01.Excellent Result.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\01.Excellent Result\bin\Debug\net5.0\01.Excellent Result.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\01.Excellent Result\bin\Debug\net5.0\01.Excellent Result.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\01.Excellent Result\bin\Debug\net5.0\01.Excellent Result.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\01.Excellent Result\bin\Debug\net5.0\01.Excellent Result.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\01.Excellent Result\bin\Debug\net5.0\01.Excellent Result.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\01.Excellent Result\obj\Debug\net5.0\01.Excellent Result.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\01.Excellent Result\obj\Debug\net5.0\01.Excellent Result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\01.Excellent Result\obj\Debug\net5.0\01.Excellent Result.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\01.Excellent Result\obj\Debug\net5.0\01.Excellent Result.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\01.Excellent Result\obj\Debug\net5.0\01.Excellent Result.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\01.Excellent Result\obj\Debug\net5.0\01.Excellent Result.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\01.Excellent Result\obj\Debug\net5.0\refint\01.Excellent Result.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\01.Excellent Result\obj\Debug\net5.0\01.Excellent Result.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\01.Excellent Result\obj\Debug\net5.0\01.Excellent Result.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\01.Excellent Result\obj\Debug\net5.0\ref\01.Excellent Result.dll

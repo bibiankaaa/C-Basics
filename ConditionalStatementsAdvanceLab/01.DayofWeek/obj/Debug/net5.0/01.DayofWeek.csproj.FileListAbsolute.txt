@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\01.DayofWeek\bin\Debug\net5.0\01.DayofWeek.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\01.DayofWeek\bin\Debug\net5.0\01.DayofWeek.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\01.DayofWeek\bin\Debug\net5.0\01.DayofWeek.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\01.DayofWeek\bin\Debug\net5.0\01.DayofWeek.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\01.DayofWeek\bin\Debug\net5.0\01.DayofWeek.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\01.DayofWeek\bin\Debug\net5.0\01.DayofWeek.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\01.DayofWeek\obj\Debug\net5.0\01.DayofWeek.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\01.DayofWeek\obj\Debug\net5.0\01.DayofWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\01.DayofWeek\obj\Debug\net5.0\01.DayofWeek.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\01.DayofWeek\obj\Debug\net5.0\01.DayofWeek.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\01.DayofWeek\obj\Debug\net5.0\01.DayofWeek.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\01.DayofWeek\obj\Debug\net5.0\01.DayofWeek.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\01.DayofWeek\obj\Debug\net5.0\refint\01.DayofWeek.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\01.DayofWeek\obj\Debug\net5.0\01.DayofWeek.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\01.DayofWeek\obj\Debug\net5.0\01.DayofWeek.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanceLab\01.DayofWeek\obj\Debug\net5.0\ref\01.DayofWeek.dll

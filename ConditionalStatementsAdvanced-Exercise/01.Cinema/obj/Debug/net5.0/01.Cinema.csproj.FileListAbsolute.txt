@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net5.0\01.Cinema.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net5.0\01.Cinema.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net5.0\01.Cinema.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net5.0\01.Cinema.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net5.0\01.Cinema.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net5.0\01.Cinema.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\refint\01.Cinema.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\ref\01.Cinema.dll

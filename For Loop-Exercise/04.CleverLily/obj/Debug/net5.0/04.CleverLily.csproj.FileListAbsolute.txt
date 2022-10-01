@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\04.CleverLily\bin\Debug\net5.0\04.CleverLily.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\04.CleverLily\bin\Debug\net5.0\04.CleverLily.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\04.CleverLily\bin\Debug\net5.0\04.CleverLily.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\04.CleverLily\bin\Debug\net5.0\04.CleverLily.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\04.CleverLily\bin\Debug\net5.0\04.CleverLily.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\04.CleverLily\bin\Debug\net5.0\04.CleverLily.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\04.CleverLily\obj\Debug\net5.0\04.CleverLily.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\04.CleverLily\obj\Debug\net5.0\04.CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\04.CleverLily\obj\Debug\net5.0\04.CleverLily.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\04.CleverLily\obj\Debug\net5.0\04.CleverLily.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\04.CleverLily\obj\Debug\net5.0\04.CleverLily.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\04.CleverLily\obj\Debug\net5.0\04.CleverLily.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\04.CleverLily\obj\Debug\net5.0\refint\04.CleverLily.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\04.CleverLily\obj\Debug\net5.0\04.CleverLily.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\04.CleverLily\obj\Debug\net5.0\04.CleverLily.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\04.CleverLily\obj\Debug\net5.0\ref\04.CleverLily.dll

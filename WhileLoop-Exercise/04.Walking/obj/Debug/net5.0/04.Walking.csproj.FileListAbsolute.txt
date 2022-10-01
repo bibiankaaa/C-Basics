@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\04.Walking\bin\Debug\net5.0\04.Walking.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\04.Walking\bin\Debug\net5.0\04.Walking.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\04.Walking\bin\Debug\net5.0\04.Walking.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\04.Walking\bin\Debug\net5.0\04.Walking.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\04.Walking\bin\Debug\net5.0\04.Walking.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\04.Walking\bin\Debug\net5.0\04.Walking.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\04.Walking\obj\Debug\net5.0\04.Walking.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\04.Walking\obj\Debug\net5.0\04.Walking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\04.Walking\obj\Debug\net5.0\04.Walking.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\04.Walking\obj\Debug\net5.0\04.Walking.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\04.Walking\obj\Debug\net5.0\04.Walking.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\04.Walking\obj\Debug\net5.0\04.Walking.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\04.Walking\obj\Debug\net5.0\refint\04.Walking.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\04.Walking\obj\Debug\net5.0\04.Walking.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\04.Walking\obj\Debug\net5.0\04.Walking.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\WhileLoop-Exercise\04.Walking\obj\Debug\net5.0\ref\04.Walking.dll

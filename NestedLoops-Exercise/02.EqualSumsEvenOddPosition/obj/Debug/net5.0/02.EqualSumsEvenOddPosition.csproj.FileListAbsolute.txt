@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net5.0\02.EqualSumsEvenOddPosition.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net5.0\02.EqualSumsEvenOddPosition.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net5.0\02.EqualSumsEvenOddPosition.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net5.0\02.EqualSumsEvenOddPosition.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net5.0\02.EqualSumsEvenOddPosition.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net5.0\02.EqualSumsEvenOddPosition.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net5.0\02.EqualSumsEvenOddPosition.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net5.0\02.EqualSumsEvenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net5.0\02.EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net5.0\02.EqualSumsEvenOddPosition.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net5.0\02.EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net5.0\02.EqualSumsEvenOddPosition.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net5.0\refint\02.EqualSumsEvenOddPosition.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net5.0\02.EqualSumsEvenOddPosition.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net5.0\02.EqualSumsEvenOddPosition.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net5.0\ref\02.EqualSumsEvenOddPosition.dll

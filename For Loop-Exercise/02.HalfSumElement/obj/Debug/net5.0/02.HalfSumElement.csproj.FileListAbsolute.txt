@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\02.HalfSumElement\bin\Debug\net5.0\02.HalfSumElement.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\02.HalfSumElement\bin\Debug\net5.0\02.HalfSumElement.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\02.HalfSumElement\bin\Debug\net5.0\02.HalfSumElement.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\02.HalfSumElement\bin\Debug\net5.0\02.HalfSumElement.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\02.HalfSumElement\bin\Debug\net5.0\02.HalfSumElement.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\02.HalfSumElement\bin\Debug\net5.0\02.HalfSumElement.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\02.HalfSumElement\obj\Debug\net5.0\02.HalfSumElement.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\02.HalfSumElement\obj\Debug\net5.0\02.HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\02.HalfSumElement\obj\Debug\net5.0\02.HalfSumElement.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\02.HalfSumElement\obj\Debug\net5.0\02.HalfSumElement.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\02.HalfSumElement\obj\Debug\net5.0\02.HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\02.HalfSumElement\obj\Debug\net5.0\02.HalfSumElement.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\02.HalfSumElement\obj\Debug\net5.0\refint\02.HalfSumElement.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\02.HalfSumElement\obj\Debug\net5.0\02.HalfSumElement.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\02.HalfSumElement\obj\Debug\net5.0\02.HalfSumElement.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\For Loop-Exercise\02.HalfSumElement\obj\Debug\net5.0\ref\02.HalfSumElement.dll

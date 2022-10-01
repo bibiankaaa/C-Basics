@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\02.DeerofSanta\bin\Debug\net5.0\02.DeerofSanta.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\02.DeerofSanta\bin\Debug\net5.0\02.DeerofSanta.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\02.DeerofSanta\bin\Debug\net5.0\02.DeerofSanta.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\02.DeerofSanta\bin\Debug\net5.0\02.DeerofSanta.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\02.DeerofSanta\bin\Debug\net5.0\02.DeerofSanta.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\02.DeerofSanta\bin\Debug\net5.0\02.DeerofSanta.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\02.DeerofSanta\obj\Debug\net5.0\02.DeerofSanta.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\02.DeerofSanta\obj\Debug\net5.0\02.DeerofSanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\02.DeerofSanta\obj\Debug\net5.0\02.DeerofSanta.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\02.DeerofSanta\obj\Debug\net5.0\02.DeerofSanta.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\02.DeerofSanta\obj\Debug\net5.0\02.DeerofSanta.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\02.DeerofSanta\obj\Debug\net5.0\02.DeerofSanta.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\02.DeerofSanta\obj\Debug\net5.0\refint\02.DeerofSanta.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\02.DeerofSanta\obj\Debug\net5.0\02.DeerofSanta.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\02.DeerofSanta\obj\Debug\net5.0\02.DeerofSanta.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\02.DeerofSanta\obj\Debug\net5.0\ref\02.DeerofSanta.dll

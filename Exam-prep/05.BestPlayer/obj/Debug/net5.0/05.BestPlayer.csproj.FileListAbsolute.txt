@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.BestPlayer\bin\Debug\net5.0\05.BestPlayer.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.BestPlayer\bin\Debug\net5.0\05.BestPlayer.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.BestPlayer\bin\Debug\net5.0\05.BestPlayer.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.BestPlayer\bin\Debug\net5.0\05.BestPlayer.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.BestPlayer\bin\Debug\net5.0\05.BestPlayer.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.BestPlayer\bin\Debug\net5.0\05.BestPlayer.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.BestPlayer\obj\Debug\net5.0\05.BestPlayer.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.BestPlayer\obj\Debug\net5.0\05.BestPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.BestPlayer\obj\Debug\net5.0\05.BestPlayer.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.BestPlayer\obj\Debug\net5.0\05.BestPlayer.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.BestPlayer\obj\Debug\net5.0\05.BestPlayer.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.BestPlayer\obj\Debug\net5.0\05.BestPlayer.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.BestPlayer\obj\Debug\net5.0\refint\05.BestPlayer.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.BestPlayer\obj\Debug\net5.0\05.BestPlayer.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.BestPlayer\obj\Debug\net5.0\05.BestPlayer.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.BestPlayer\obj\Debug\net5.0\ref\05.BestPlayer.dll

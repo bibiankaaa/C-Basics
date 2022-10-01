@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\01.SumSeconds\bin\Debug\net5.0\01.SumSeconds.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\01.SumSeconds\bin\Debug\net5.0\01.SumSeconds.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\01.SumSeconds\bin\Debug\net5.0\01.SumSeconds.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\01.SumSeconds\bin\Debug\net5.0\01.SumSeconds.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\01.SumSeconds\bin\Debug\net5.0\01.SumSeconds.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\01.SumSeconds\bin\Debug\net5.0\01.SumSeconds.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net5.0\01.SumSeconds.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net5.0\01.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net5.0\01.SumSeconds.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net5.0\01.SumSeconds.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net5.0\01.SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net5.0\01.SumSeconds.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net5.0\refint\01.SumSeconds.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net5.0\01.SumSeconds.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net5.0\01.SumSeconds.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net5.0\ref\01.SumSeconds.dll

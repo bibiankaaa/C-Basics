@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\06.Building\bin\Debug\net5.0\06.Building.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\06.Building\bin\Debug\net5.0\06.Building.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\06.Building\bin\Debug\net5.0\06.Building.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\06.Building\bin\Debug\net5.0\06.Building.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\06.Building\bin\Debug\net5.0\06.Building.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\06.Building\bin\Debug\net5.0\06.Building.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\06.Building\obj\Debug\net5.0\06.Building.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\06.Building\obj\Debug\net5.0\06.Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\06.Building\obj\Debug\net5.0\06.Building.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\06.Building\obj\Debug\net5.0\06.Building.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\06.Building\obj\Debug\net5.0\06.Building.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\06.Building\obj\Debug\net5.0\06.Building.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\06.Building\obj\Debug\net5.0\refint\06.Building.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\06.Building\obj\Debug\net5.0\06.Building.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\06.Building\obj\Debug\net5.0\06.Building.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Lab\06.Building\obj\Debug\net5.0\ref\06.Building.dll

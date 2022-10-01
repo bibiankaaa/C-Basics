@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\net5.0\04.FishingBoat.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\net5.0\04.FishingBoat.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\net5.0\04.FishingBoat.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\net5.0\04.FishingBoat.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\net5.0\04.FishingBoat.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\net5.0\04.FishingBoat.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net5.0\04.FishingBoat.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net5.0\04.FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net5.0\04.FishingBoat.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net5.0\04.FishingBoat.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net5.0\04.FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net5.0\04.FishingBoat.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net5.0\refint\04.FishingBoat.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net5.0\04.FishingBoat.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net5.0\04.FishingBoat.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net5.0\ref\04.FishingBoat.dll

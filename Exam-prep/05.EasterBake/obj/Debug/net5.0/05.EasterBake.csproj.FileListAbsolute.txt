@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.EasterBake\bin\Debug\net5.0\05.EasterBake.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.EasterBake\bin\Debug\net5.0\05.EasterBake.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.EasterBake\bin\Debug\net5.0\05.EasterBake.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.EasterBake\bin\Debug\net5.0\05.EasterBake.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.EasterBake\bin\Debug\net5.0\05.EasterBake.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.EasterBake\bin\Debug\net5.0\05.EasterBake.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.EasterBake\obj\Debug\net5.0\05.EasterBake.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.EasterBake\obj\Debug\net5.0\05.EasterBake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.EasterBake\obj\Debug\net5.0\05.EasterBake.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.EasterBake\obj\Debug\net5.0\05.EasterBake.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.EasterBake\obj\Debug\net5.0\05.EasterBake.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.EasterBake\obj\Debug\net5.0\05.EasterBake.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.EasterBake\obj\Debug\net5.0\refint\05.EasterBake.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.EasterBake\obj\Debug\net5.0\05.EasterBake.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.EasterBake\obj\Debug\net5.0\05.EasterBake.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\05.EasterBake\obj\Debug\net5.0\ref\05.EasterBake.dll

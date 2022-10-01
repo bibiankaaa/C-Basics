@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.CourierExpress\bin\Debug\net5.0\03.CourierExpress.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.CourierExpress\bin\Debug\net5.0\03.CourierExpress.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.CourierExpress\bin\Debug\net5.0\03.CourierExpress.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.CourierExpress\bin\Debug\net5.0\03.CourierExpress.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.CourierExpress\bin\Debug\net5.0\03.CourierExpress.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.CourierExpress\bin\Debug\net5.0\03.CourierExpress.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.CourierExpress\obj\Debug\net5.0\03.CourierExpress.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.CourierExpress\obj\Debug\net5.0\03.CourierExpress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.CourierExpress\obj\Debug\net5.0\03.CourierExpress.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.CourierExpress\obj\Debug\net5.0\03.CourierExpress.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.CourierExpress\obj\Debug\net5.0\03.CourierExpress.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.CourierExpress\obj\Debug\net5.0\03.CourierExpress.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.CourierExpress\obj\Debug\net5.0\refint\03.CourierExpress.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.CourierExpress\obj\Debug\net5.0\03.CourierExpress.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.CourierExpress\obj\Debug\net5.0\03.CourierExpress.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.CourierExpress\obj\Debug\net5.0\ref\03.CourierExpress.dll

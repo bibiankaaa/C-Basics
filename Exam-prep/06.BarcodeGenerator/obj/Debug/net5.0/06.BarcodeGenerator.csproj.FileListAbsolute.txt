@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.BarcodeGenerator\bin\Debug\net5.0\06.BarcodeGenerator.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.BarcodeGenerator\bin\Debug\net5.0\06.BarcodeGenerator.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.BarcodeGenerator\bin\Debug\net5.0\06.BarcodeGenerator.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.BarcodeGenerator\bin\Debug\net5.0\06.BarcodeGenerator.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.BarcodeGenerator\bin\Debug\net5.0\06.BarcodeGenerator.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.BarcodeGenerator\bin\Debug\net5.0\06.BarcodeGenerator.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.BarcodeGenerator\obj\Debug\net5.0\06.BarcodeGenerator.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.BarcodeGenerator\obj\Debug\net5.0\06.BarcodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.BarcodeGenerator\obj\Debug\net5.0\06.BarcodeGenerator.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.BarcodeGenerator\obj\Debug\net5.0\06.BarcodeGenerator.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.BarcodeGenerator\obj\Debug\net5.0\06.BarcodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.BarcodeGenerator\obj\Debug\net5.0\06.BarcodeGenerator.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.BarcodeGenerator\obj\Debug\net5.0\refint\06.BarcodeGenerator.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.BarcodeGenerator\obj\Debug\net5.0\06.BarcodeGenerator.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.BarcodeGenerator\obj\Debug\net5.0\06.BarcodeGenerator.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.BarcodeGenerator\obj\Debug\net5.0\ref\06.BarcodeGenerator.dll

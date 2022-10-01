@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\03.EvenorOdd\obj\Debug\net5.0\03.EvenorOdd.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\03.EvenorOdd\obj\Debug\net5.0\03.EvenorOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\03.EvenorOdd\obj\Debug\net5.0\03.EvenorOdd.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\03.EvenorOdd\obj\Debug\net5.0\03.EvenorOdd.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\03.EvenorOdd\obj\Debug\net5.0\03.EvenorOdd.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\03.EvenorOdd\bin\Debug\net5.0\03.EvenorOdd.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\03.EvenorOdd\bin\Debug\net5.0\03.EvenorOdd.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\03.EvenorOdd\bin\Debug\net5.0\03.EvenorOdd.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\03.EvenorOdd\bin\Debug\net5.0\03.EvenorOdd.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\03.EvenorOdd\bin\Debug\net5.0\03.EvenorOdd.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\03.EvenorOdd\bin\Debug\net5.0\03.EvenorOdd.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\03.EvenorOdd\obj\Debug\net5.0\03.EvenorOdd.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\03.EvenorOdd\obj\Debug\net5.0\refint\03.EvenorOdd.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\03.EvenorOdd\obj\Debug\net5.0\03.EvenorOdd.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\03.EvenorOdd\obj\Debug\net5.0\03.EvenorOdd.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsLab\03.EvenorOdd\obj\Debug\net5.0\ref\03.EvenorOdd.dll

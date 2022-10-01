@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.EasterDecoration\bin\Debug\net5.0\06.EasterDecoration.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.EasterDecoration\bin\Debug\net5.0\06.EasterDecoration.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.EasterDecoration\bin\Debug\net5.0\06.EasterDecoration.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.EasterDecoration\bin\Debug\net5.0\06.EasterDecoration.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.EasterDecoration\bin\Debug\net5.0\06.EasterDecoration.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.EasterDecoration\bin\Debug\net5.0\06.EasterDecoration.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.EasterDecoration\obj\Debug\net5.0\06.EasterDecoration.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.EasterDecoration\obj\Debug\net5.0\06.EasterDecoration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.EasterDecoration\obj\Debug\net5.0\06.EasterDecoration.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.EasterDecoration\obj\Debug\net5.0\06.EasterDecoration.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.EasterDecoration\obj\Debug\net5.0\06.EasterDecoration.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.EasterDecoration\obj\Debug\net5.0\06.EasterDecoration.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.EasterDecoration\obj\Debug\net5.0\refint\06.EasterDecoration.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.EasterDecoration\obj\Debug\net5.0\06.EasterDecoration.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.EasterDecoration\obj\Debug\net5.0\06.EasterDecoration.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\06.EasterDecoration\obj\Debug\net5.0\ref\06.EasterDecoration.dll

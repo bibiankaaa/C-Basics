@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net5.0\07.HotelRoom.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net5.0\07.HotelRoom.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net5.0\07.HotelRoom.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net5.0\07.HotelRoom.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net5.0\07.HotelRoom.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net5.0\07.HotelRoom.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\refint\07.HotelRoom.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\ref\07.HotelRoom.dll

@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net5.0\03.SumPrimeNonPrime.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net5.0\03.SumPrimeNonPrime.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net5.0\03.SumPrimeNonPrime.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net5.0\03.SumPrimeNonPrime.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net5.0\03.SumPrimeNonPrime.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net5.0\03.SumPrimeNonPrime.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net5.0\03.SumPrimeNonPrime.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net5.0\03.SumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net5.0\03.SumPrimeNonPrime.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net5.0\03.SumPrimeNonPrime.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net5.0\03.SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net5.0\03.SumPrimeNonPrime.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net5.0\refint\03.SumPrimeNonPrime.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net5.0\03.SumPrimeNonPrime.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net5.0\03.SumPrimeNonPrime.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net5.0\ref\03.SumPrimeNonPrime.dll

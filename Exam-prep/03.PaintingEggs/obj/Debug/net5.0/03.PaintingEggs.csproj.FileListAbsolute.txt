@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.PaintingEggs\bin\Debug\net5.0\03.PaintingEggs.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.PaintingEggs\bin\Debug\net5.0\03.PaintingEggs.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.PaintingEggs\bin\Debug\net5.0\03.PaintingEggs.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.PaintingEggs\bin\Debug\net5.0\03.PaintingEggs.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.PaintingEggs\bin\Debug\net5.0\03.PaintingEggs.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.PaintingEggs\bin\Debug\net5.0\03.PaintingEggs.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.PaintingEggs\obj\Debug\net5.0\03.PaintingEggs.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.PaintingEggs\obj\Debug\net5.0\03.PaintingEggs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.PaintingEggs\obj\Debug\net5.0\03.PaintingEggs.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.PaintingEggs\obj\Debug\net5.0\03.PaintingEggs.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.PaintingEggs\obj\Debug\net5.0\03.PaintingEggs.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.PaintingEggs\obj\Debug\net5.0\03.PaintingEggs.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.PaintingEggs\obj\Debug\net5.0\refint\03.PaintingEggs.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.PaintingEggs\obj\Debug\net5.0\03.PaintingEggs.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.PaintingEggs\obj\Debug\net5.0\03.PaintingEggs.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.PaintingEggs\obj\Debug\net5.0\ref\03.PaintingEggs.dll

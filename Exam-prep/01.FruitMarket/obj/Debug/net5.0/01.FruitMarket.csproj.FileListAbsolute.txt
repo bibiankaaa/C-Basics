@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.FruitMarket\bin\Debug\net5.0\01.FruitMarket.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.FruitMarket\bin\Debug\net5.0\01.FruitMarket.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.FruitMarket\bin\Debug\net5.0\01.FruitMarket.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.FruitMarket\bin\Debug\net5.0\01.FruitMarket.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.FruitMarket\bin\Debug\net5.0\01.FruitMarket.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.FruitMarket\bin\Debug\net5.0\01.FruitMarket.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.FruitMarket\obj\Debug\net5.0\01.FruitMarket.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.FruitMarket\obj\Debug\net5.0\01.FruitMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.FruitMarket\obj\Debug\net5.0\01.FruitMarket.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.FruitMarket\obj\Debug\net5.0\01.FruitMarket.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.FruitMarket\obj\Debug\net5.0\01.FruitMarket.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.FruitMarket\obj\Debug\net5.0\01.FruitMarket.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.FruitMarket\obj\Debug\net5.0\refint\01.FruitMarket.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.FruitMarket\obj\Debug\net5.0\01.FruitMarket.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.FruitMarket\obj\Debug\net5.0\01.FruitMarket.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\01.FruitMarket\obj\Debug\net5.0\ref\01.FruitMarket.dll

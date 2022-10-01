@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net5.0\05.Journey.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net5.0\05.Journey.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net5.0\05.Journey.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net5.0\05.Journey.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net5.0\05.Journey.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net5.0\05.Journey.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net5.0\05.Journey.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net5.0\05.Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net5.0\05.Journey.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net5.0\05.Journey.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net5.0\05.Journey.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net5.0\05.Journey.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net5.0\refint\05.Journey.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net5.0\05.Journey.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net5.0\05.Journey.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net5.0\ref\05.Journey.dll

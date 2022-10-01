@@ -1,0 +1,16 @@
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.EasterTrip\bin\Debug\net5.0\03.EasterTrip.exe
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.EasterTrip\bin\Debug\net5.0\03.EasterTrip.deps.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.EasterTrip\bin\Debug\net5.0\03.EasterTrip.runtimeconfig.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.EasterTrip\bin\Debug\net5.0\03.EasterTrip.runtimeconfig.dev.json
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.EasterTrip\bin\Debug\net5.0\03.EasterTrip.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.EasterTrip\bin\Debug\net5.0\03.EasterTrip.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.EasterTrip\obj\Debug\net5.0\03.EasterTrip.csproj.AssemblyReference.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.EasterTrip\obj\Debug\net5.0\03.EasterTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.EasterTrip\obj\Debug\net5.0\03.EasterTrip.AssemblyInfoInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.EasterTrip\obj\Debug\net5.0\03.EasterTrip.AssemblyInfo.cs
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.EasterTrip\obj\Debug\net5.0\03.EasterTrip.csproj.CoreCompileInputs.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.EasterTrip\obj\Debug\net5.0\03.EasterTrip.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.EasterTrip\obj\Debug\net5.0\refint\03.EasterTrip.dll
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.EasterTrip\obj\Debug\net5.0\03.EasterTrip.pdb
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.EasterTrip\obj\Debug\net5.0\03.EasterTrip.genruntimeconfig.cache
+C:\Users\B-V\Desktop\FirstStepsInCodingExercise\FirstStepsInCodingLab\Exam-prep\03.EasterTrip\obj\Debug\net5.0\ref\03.EasterTrip.dll
